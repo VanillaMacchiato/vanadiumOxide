@@ -6,4 +6,5 @@ Welcome! My name is **Vito Ghifari**. You can call me **Vito**. Here are some qu
 - ⚙️ ...and things related to machine learning, especially deep learning.
 - 📙 Also loves to learn about almost everything that's interesting.
 - 📊 Is interested in data analysis and analytics because of the astronomy competitions which have data analysis round.
+
 Feel free to connect with me on [my LinkedIn](https://www.linkedin.com/in/vitoghifari/)!
