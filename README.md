@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome! My name is **Vito Ghifari**. You can call me **Vito**. Here are some quick facts that describe me:
+Welcome! My name is **Vito Ghifari**. You can call me **Vito**. Here are things that describe me:
 - 🎓 An undergraduate student from School of Electrical Engineering and Informatics at Institute Technology of Bandung (**STEI ITB**).
 - 🏠 Lives in **Bekasi**.
 - 📖  Loves to read articles about programming concepts...
